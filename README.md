@@ -1,6 +1,6 @@
 # onboarding_ui
 
-![Mockup](mockup.png)
+![Mockup2](mockup2.png)
 ![Mockup1](mockup1.png)
 
 A new Flutter project.
